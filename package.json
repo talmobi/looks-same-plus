@@ -4,7 +4,7 @@
   "description": "looks-same with automatic url downloading, jpg->png conversion and promises",
   "main": "looks-same-plus.js",
   "scripts": {
-    "test": "tape test/test.js"
+    "test": "tape test/test.js | faucet"
   },
   "keywords": [
     "looks-same-plus"
@@ -27,6 +27,7 @@
     "tempfile": "~3.0.0"
   },
   "devDependencies": {
+    "faucet": "0.0.1",
     "tape": "~5.0.0"
   }
 }
