@@ -1,5 +1,7 @@
-[![npm](https://img.shields.io/npm/v/looks-same-plus.svg?maxAge=3600&style=flat-square)](https://www.npmjs.com/package/looks-same-plus)
-[![npm](https://img.shields.io/npm/l/looks-same-plus.svg?maxAge=3600&style=flat-square)](https://github.com/talmobi/looks-same-plus/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/looks-same-plus.svg?maxAge=3600)](https://www.npmjs.com/package/looks-same-plus)
+[![npm](https://img.shields.io/npm/dm/looks-same-plus.svg?maxAge=3600)](https://www.npmjs.com/package/looks-same-plus)
+[![npm](https://img.shields.io/npm/l/looks-same-plus.svg?maxAge=3600)](https://www.npmjs.com/package/looks-same-plus)
+
 
 #  looks-same-plus
 [looks-same](https://github.com/gemini-testing/looks-same) with automatic url downloading, jpg->png conversion and promises
