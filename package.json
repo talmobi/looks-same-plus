@@ -1,8 +1,8 @@
 {
   "name": "looks-same-plus",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "looks-same with automatic url downloading, jpg->png conversion and promises",
-  "main": "looks-same-plus.js",
+  "main": "src/main.js",
   "scripts": {
     "test": "tape test/test.js | faucet"
   },
