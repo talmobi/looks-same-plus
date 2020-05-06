@@ -11,7 +11,7 @@
 #### Module usage
 ```javascript
   const lsp = require( 'looks-same-plus' )
-  const opts = undefined // e.g. { threshold: 5 }, see https://github.com/gemini-testing/looks-same docs.
+  const opts = undefined // e.g. { tolerance: 5 }, see https://github.com/gemini-testing/looks-same docs.
   const callback = undefined // node style callback support
 
   const r = await lsp(
