@@ -1,6 +1,6 @@
 {
   "name": "looks-same-plus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "looks-same with automatic url downloading, jpg->png conversion and promises",
   "main": "src/main.js",
   "types": "src/main.d.ts",
