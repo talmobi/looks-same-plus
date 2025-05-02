@@ -23,12 +23,12 @@
   },
   "dependencies": {
     "dasu": "~0.4.0",
-    "jimp": "~0.10.3",
-    "looks-same": "~7.2.2",
+    "jimp": "~0.22.12",
+    "looks-same": "~7.2.4",
     "tempfile": "~3.0.0"
   },
   "devDependencies": {
-    "faucet": "0.0.1",
+    "faucet": "~0.0.4",
     "tape": "~5.0.0"
   }
 }

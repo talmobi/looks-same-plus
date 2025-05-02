@@ -4,6 +4,15 @@ const tempfile = require( 'tempfile' ) // store downloaded/converted images
 const jimp = require( 'jimp' ) // convert jpg -> png
 const looksSame = require( 'looks-same' ) // compare png images
 
+// let jimp
+// (async function () {
+//   const module = await import('jimp') // convert jpg -> png
+//   console.log(Object.keys(module))
+//   console.log(Object.keys(module.Jimp))
+//   jimp = new module.Jimp
+//   console.log(jimp)
+// })()
+
 module.exports = async function looksSamePlus ( img1, img2, opts, callback ) {
   return new Promise( async function ( resolve, reject ) {
     if ( typeof opts !== 'object' ) {
